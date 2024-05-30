@@ -1,0 +1,5 @@
+﻿  PlayWhite.cpp
+C:\Users\Дима\OneDrive\Рабочий стол\хобби\chess\PlayWhite.cpp(9,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Дима\OneDrive\Рабочий стол\хобби\chess\PlayWhite.cpp(13,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Дима\OneDrive\Рабочий стол\хобби\chess\PlayWhite.cpp(22,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  графика.vcxproj -> C:\Users\Дима\OneDrive\Рабочий стол\хобби\chess\Debug\графика.exe

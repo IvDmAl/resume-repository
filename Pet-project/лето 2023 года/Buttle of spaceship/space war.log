@@ -1,0 +1,65 @@
+﻿  end_consignment.cpp
+C:\Users\Дима\OneDrive\Рабочий стол\хобби\space war\Bullet.h(43,42): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Дима\OneDrive\Рабочий стол\хобби\space war\Bullet.h(43,34): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Дима\OneDrive\Рабочий стол\хобби\space war\Asteroid.h(19,85): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\Дима\OneDrive\Рабочий стол\хобби\space war\Asteroid.h(19,49): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\Дима\OneDrive\Рабочий стол\хобби\space war\Asteroid.h(20,34): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\Дима\OneDrive\Рабочий стол\хобби\space war\Asteroid.h(20,26): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\Дима\OneDrive\Рабочий стол\хобби\space war\Ship.h(75,84): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Дима\OneDrive\Рабочий стол\хобби\space war\Ship.h(75,53): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Дима\OneDrive\Рабочий стол\хобби\space war\Ship.h(76,32): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\Дима\OneDrive\Рабочий стол\хобби\space war\Ship.h(76,24): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\Дима\OneDrive\Рабочий стол\хобби\space war\Ship.h(77,31): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\Дима\OneDrive\Рабочий стол\хобби\space war\Game.h(104,79): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Дима\OneDrive\Рабочий стол\хобби\space war\Game.h(104,58): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Дима\OneDrive\Рабочий стол\хобби\space war\Game.h(112,79): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Дима\OneDrive\Рабочий стол\хобби\space war\Game.h(112,58): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Дима\OneDrive\Рабочий стол\хобби\space war\fountain.h(17,88): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\Дима\OneDrive\Рабочий стол\хобби\space war\end_consignment.cpp(11,81): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\Дима\OneDrive\Рабочий стол\хобби\space war\end_consignment.cpp(11,45): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  Создание кода
+  1 of 857 functions ( 0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  space war.vcxproj -> C:\Users\Дима\OneDrive\Рабочий стол\хобби\space war\x64\Release\space war.exe

@@ -1,0 +1,18 @@
+You are welcomed by the association of Ivanoff brothers. /n
+/n
+This application is a game for two, the essence of which is to hit the enemy ship three times. /n
+Attention, when you hit the enemy, within three seconds you should keep your ship unharmed, otherwise a draw will be counted. /n
+/n
+Use the following buttons to control: /n
+/t first player: /n
+/t /t ship acceleration ----- up /n
+/t /t turn counterclockwise - left /n
+/t /t turn clockwise -------- right /n
+/t /t shooting -------------- down /n
+/t second player: /n
+/t /t ship acceleration ----- W /n
+/t /t turn counterclockwise - A /n
+/t /t turn clockwise -------- D /n
+/t /t shooting -------------- S /n
+/n
+Have a fun game.
